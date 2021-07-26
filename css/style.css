@@ -1,0 +1,41 @@
+body{
+  background-color: #A7BBC7;
+  font-family: 'Bebas Neue', cursive;
+}
+h1
+{
+color:#000;
+font-size: 5rem;
+letter-spacing: 8px;
+font-weight: 100;
+}
+img {
+  width: 30%;
+
+}
+.coin{
+  text-align: center;
+  display: inline-block;
+  margin-bottom: 40px;
+}
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+.btn {
+  font-family: 'Roboto', cursive;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-size: 30px;
+   padding: 20px 50px;
+   background-color: #334257;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
